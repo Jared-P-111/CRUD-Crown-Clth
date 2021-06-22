@@ -16,7 +16,6 @@ class App extends React.Component {
       currentUser: null,
     };
   }
-  testObj = null;
   unsubscribeFromAuth = null;
 
   componentDidMount() {
